@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\andres castellon\\source\\repos\\cpcolas\\implemantacioncolas\\main\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\andres castellon\\source\\repos\\cpcolas\\implemantacioncolas\\main\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\andres castellon\\source\\repos\\cpcolas\\implemantacioncolas\\main\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\main\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\andres castellon\\source\\repos\\cpcolas\\implemantacioncolas\\main\\ejercicio3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\ejercicio3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\andres castellon\\source\\repos\\cpcolas\\implemantacioncolas\\main\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Main\\Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio2.cs",
+              "RelativeToolTip": "Main\\Ejercicio2.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAYwJcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:07:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Main\\Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Main\\Ejercicio2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:07:40.753Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio3.Designer.cs",
+              "RelativeDocumentMoniker": "Main\\Ejercicio3.Designer.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio3.Designer.cs",
+              "RelativeToolTip": "Main\\Ejercicio3.Designer.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAQwIQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:26:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Main\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio3.cs",
+              "RelativeToolTip": "Main\\Ejercicio3.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwIAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:26:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Main\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Main\\Ejercicio3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:25:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Main\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\Andres Castellon\\source\\repos\\CpColas\\ImplemantacionColas\\Main\\Ejercicio1.cs",
+              "RelativeToolTip": "Main\\Ejercicio1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:28:45.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
