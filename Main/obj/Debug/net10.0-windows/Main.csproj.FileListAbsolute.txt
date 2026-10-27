@@ -27,3 +27,6 @@ C:\Users\Andres Castellon\source\repos\CpColas\ImplemantacionColas\Main\obj\Debu
 C:\Users\Andres Castellon\source\repos\CpColas\ImplemantacionColas\Main\obj\Debug\net10.0-windows\Main.Ejercicio3.resources
 C:\Users\Andres Castellon\source\repos\CpColas\ImplemantacionColas\Main\obj\Debug\net10.0-windows\Main.Ejercicio4.resources
 C:\Users\Andres Castellon\source\repos\CpColas\ImplemantacionColas\Main\obj\Debug\net10.0-windows\Main.Ejercicio5.resources
+C:\Users\Andres Castellon\source\repos\CpColas\ImplemantacionColas\Main\obj\Debug\net10.0-windows\Main.ArbolBinario.resources
+C:\Users\Andres Castellon\source\repos\CpColas\ImplemantacionColas\Main\obj\Debug\net10.0-windows\Main.Asistencia.resources
+C:\Users\Andres Castellon\source\repos\CpColas\ImplemantacionColas\Main\obj\Debug\net10.0-windows\Estructuras.QueueView.resources

@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(App));
             PnlMenu = new Panel();
+            button2 = new Button();
+            button1 = new Button();
             btn5 = new Button();
             btn4 = new Button();
             btn3 = new Button();
@@ -46,6 +48,8 @@
             // PnlMenu
             // 
             PnlMenu.BackColor = Color.FromArgb(19, 68, 64);
+            PnlMenu.Controls.Add(button2);
+            PnlMenu.Controls.Add(button1);
             PnlMenu.Controls.Add(btn5);
             PnlMenu.Controls.Add(btn4);
             PnlMenu.Controls.Add(btn3);
@@ -57,6 +61,42 @@
             PnlMenu.Name = "PnlMenu";
             PnlMenu.Size = new Size(200, 618);
             PnlMenu.TabIndex = 0;
+            // 
+            // button2
+            // 
+            button2.Cursor = Cursors.Hand;
+            button2.FlatAppearance.BorderSize = 0;
+            button2.FlatAppearance.MouseOverBackColor = Color.FromArgb(22, 94, 85);
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Leelawadee UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button2.ForeColor = Color.FromArgb(210, 221, 228);
+            button2.Image = (Image)resources.GetObject("button2.Image");
+            button2.ImageAlign = ContentAlignment.MiddleLeft;
+            button2.Location = new Point(-3, 431);
+            button2.Name = "button2";
+            button2.Size = new Size(200, 40);
+            button2.TabIndex = 6;
+            button2.Text = "Control de asistencia";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button1
+            // 
+            button1.Cursor = Cursors.Hand;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatAppearance.MouseOverBackColor = Color.FromArgb(22, 94, 85);
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Font = new Font("Leelawadee UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.FromArgb(210, 221, 228);
+            button1.Image = (Image)resources.GetObject("button1.Image");
+            button1.ImageAlign = ContentAlignment.MiddleLeft;
+            button1.Location = new Point(-1, 385);
+            button1.Name = "button1";
+            button1.Size = new Size(200, 40);
+            button1.TabIndex = 5;
+            button1.Text = "Arbol Binario";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // btn5
             // 
@@ -225,5 +265,7 @@
         private Button btn2;
         private Button btnMenu;
         private Panel panel1;
+        private Button button1;
+        private Button button2;
     }
 }

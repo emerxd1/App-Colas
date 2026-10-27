@@ -4,6 +4,12 @@
     <Compile Update="App.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ArbolBinario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Asistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="DrawPila.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -21,6 +27,9 @@
     </Compile>
     <Compile Update="Ejercicio5.cs">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModernGrid.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Update="QueueView.cs">
       <SubType>Component</SubType>

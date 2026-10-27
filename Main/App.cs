@@ -54,7 +54,7 @@ namespace Main
 
         private void btnMenu_Click(object sender, EventArgs e)
         {
-            if(PnlMenu.Width == 200)
+            if (PnlMenu.Width == 200)
             {
                 lblInfo.Text = "CP"!;
                 PnlMenu.Width = 40;
@@ -64,6 +64,16 @@ namespace Main
                 lblInfo.Text = "Clase Practica | Colas"!;
                 PnlMenu.Width = 200;
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MostrarFormulario(new ArbolBinario());
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MostrarFormulario(new Asistencia());
         }
     }
 }

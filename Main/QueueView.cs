@@ -5,6 +5,7 @@ using System.Drawing.Drawing2D;
 using System.Drawing.Text;
 using System.Linq;
 using System.Windows.Forms;
+using System.ComponentModel;
 
 namespace Estructuras;
 
@@ -35,9 +36,13 @@ public class QueueView : Panel
     private bool _recalculando;
 
     // Colores personalizables
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public Color FrontColor { get; set; } = Color.FromArgb(16, 185, 129);  // frente (verde)
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public Color NodeColor { get; set; } = Color.FromArgb(59, 130, 246);   // intermedios (azul)
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public Color TailColor { get; set; } = Color.FromArgb(245, 158, 11);   // final (ámbar)
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public Color ArrowColor { get; set; } = Color.FromArgb(148, 163, 184); // flechas (gris azulado)
 
     public QueueView()

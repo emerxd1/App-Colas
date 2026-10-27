@@ -29,20 +29,20 @@
         private void InitializeComponent()
         {
             pnlCola = new Sunny.UI.UIPanel();
+            uiRichTextBox1 = new Sunny.UI.UIRichTextBox();
             label9 = new Label();
             uiPanel1 = new Sunny.UI.UIPanel();
+            label7 = new Label();
+            label6 = new Label();
+            label4 = new Label();
             txtN = new Sunny.UI.UIUpDownTextBox();
             btnGenerar = new Sunny.UI.UIButton();
             label5 = new Label();
             label2 = new Label();
             label1 = new Label();
             pnlResultado = new Sunny.UI.UIPanel();
-            label3 = new Label();
-            label4 = new Label();
-            label6 = new Label();
-            label7 = new Label();
             rtbLeyenda = new Sunny.UI.UIRichTextBox();
-            uiRichTextBox1 = new Sunny.UI.UIRichTextBox();
+            label3 = new Label();
             pnlCola.SuspendLayout();
             uiPanel1.SuspendLayout();
             pnlResultado.SuspendLayout();
@@ -64,6 +64,23 @@
             pnlCola.TabIndex = 16;
             pnlCola.Text = null;
             pnlCola.TextAlignment = ContentAlignment.MiddleCenter;
+            // 
+            // uiRichTextBox1
+            // 
+            uiRichTextBox1.FillColor = Color.White;
+            uiRichTextBox1.Font = new Font("Microsoft Sans Serif", 12F);
+            uiRichTextBox1.Location = new Point(14, 29);
+            uiRichTextBox1.Margin = new Padding(4, 5, 4, 5);
+            uiRichTextBox1.MinimumSize = new Size(1, 1);
+            uiRichTextBox1.Name = "uiRichTextBox1";
+            uiRichTextBox1.Padding = new Padding(2);
+            uiRichTextBox1.Radius = 10;
+            uiRichTextBox1.ReadOnly = true;
+            uiRichTextBox1.RectColor = Color.FromArgb(224, 224, 224);
+            uiRichTextBox1.ShowText = false;
+            uiRichTextBox1.Size = new Size(744, 54);
+            uiRichTextBox1.TabIndex = 11;
+            uiRichTextBox1.TextAlignment = ContentAlignment.MiddleCenter;
             // 
             // label9
             // 
@@ -97,6 +114,45 @@
             uiPanel1.TabIndex = 15;
             uiPanel1.Text = null;
             uiPanel1.TextAlignment = ContentAlignment.MiddleCenter;
+            // 
+            // label7
+            // 
+            label7.Anchor = AnchorStyles.Top;
+            label7.AutoSize = true;
+            label7.BackColor = Color.Transparent;
+            label7.Font = new Font("Segoe UI Symbol", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label7.ForeColor = Color.FromArgb(22, 94, 85);
+            label7.Location = new Point(627, 58);
+            label7.Name = "label7";
+            label7.Size = new Size(76, 17);
+            label7.TabIndex = 20;
+            label7.Text = "Binario: 111";
+            // 
+            // label6
+            // 
+            label6.Anchor = AnchorStyles.Top;
+            label6.AutoSize = true;
+            label6.BackColor = Color.Transparent;
+            label6.Font = new Font("Segoe UI Symbol", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label6.ForeColor = Color.FromArgb(22, 94, 85);
+            label6.Location = new Point(627, 36);
+            label6.Name = "label6";
+            label6.Size = new Size(70, 17);
+            label6.TabIndex = 19;
+            label6.Text = "Numero: 7";
+            // 
+            // label4
+            // 
+            label4.Anchor = AnchorStyles.Top;
+            label4.AutoSize = true;
+            label4.BackColor = Color.Transparent;
+            label4.Font = new Font("Segoe UI Symbol", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label4.ForeColor = Color.FromArgb(22, 94, 85);
+            label4.Location = new Point(627, 13);
+            label4.Name = "label4";
+            label4.Size = new Size(112, 17);
+            label4.TabIndex = 18;
+            label4.Text = "Ejemplo de salida";
             // 
             // txtN
             // 
@@ -193,57 +249,6 @@
             pnlResultado.Text = null;
             pnlResultado.TextAlignment = ContentAlignment.MiddleCenter;
             // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.BackColor = Color.Transparent;
-            label3.Font = new Font("Segoe UI Symbol", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.ForeColor = Color.FromArgb(22, 94, 85);
-            label3.Location = new Point(14, 14);
-            label3.Name = "label3";
-            label3.Size = new Size(68, 15);
-            label3.TabIndex = 3;
-            label3.Text = "Resultado";
-            // 
-            // label4
-            // 
-            label4.Anchor = AnchorStyles.Top;
-            label4.AutoSize = true;
-            label4.BackColor = Color.Transparent;
-            label4.Font = new Font("Segoe UI Symbol", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label4.ForeColor = Color.FromArgb(22, 94, 85);
-            label4.Location = new Point(627, 13);
-            label4.Name = "label4";
-            label4.Size = new Size(112, 17);
-            label4.TabIndex = 18;
-            label4.Text = "Ejemplo de salida";
-            // 
-            // label6
-            // 
-            label6.Anchor = AnchorStyles.Top;
-            label6.AutoSize = true;
-            label6.BackColor = Color.Transparent;
-            label6.Font = new Font("Segoe UI Symbol", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.ForeColor = Color.FromArgb(22, 94, 85);
-            label6.Location = new Point(627, 36);
-            label6.Name = "label6";
-            label6.Size = new Size(70, 17);
-            label6.TabIndex = 19;
-            label6.Text = "Numero: 7";
-            // 
-            // label7
-            // 
-            label7.Anchor = AnchorStyles.Top;
-            label7.AutoSize = true;
-            label7.BackColor = Color.Transparent;
-            label7.Font = new Font("Segoe UI Symbol", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label7.ForeColor = Color.FromArgb(22, 94, 85);
-            label7.Location = new Point(627, 58);
-            label7.Name = "label7";
-            label7.Size = new Size(76, 17);
-            label7.TabIndex = 20;
-            label7.Text = "Binario: 111";
-            // 
             // rtbLeyenda
             // 
             rtbLeyenda.FillColor = Color.White;
@@ -261,22 +266,17 @@
             rtbLeyenda.TabIndex = 10;
             rtbLeyenda.TextAlignment = ContentAlignment.MiddleCenter;
             // 
-            // uiRichTextBox1
+            // label3
             // 
-            uiRichTextBox1.FillColor = Color.White;
-            uiRichTextBox1.Font = new Font("Microsoft Sans Serif", 12F);
-            uiRichTextBox1.Location = new Point(14, 29);
-            uiRichTextBox1.Margin = new Padding(4, 5, 4, 5);
-            uiRichTextBox1.MinimumSize = new Size(1, 1);
-            uiRichTextBox1.Name = "uiRichTextBox1";
-            uiRichTextBox1.Padding = new Padding(2);
-            uiRichTextBox1.Radius = 10;
-            uiRichTextBox1.ReadOnly = true;
-            uiRichTextBox1.RectColor = Color.FromArgb(224, 224, 224);
-            uiRichTextBox1.ShowText = false;
-            uiRichTextBox1.Size = new Size(744, 54);
-            uiRichTextBox1.TabIndex = 11;
-            uiRichTextBox1.TextAlignment = ContentAlignment.MiddleCenter;
+            label3.AutoSize = true;
+            label3.BackColor = Color.Transparent;
+            label3.Font = new Font("Segoe UI Symbol", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.ForeColor = Color.FromArgb(22, 94, 85);
+            label3.Location = new Point(14, 14);
+            label3.Name = "label3";
+            label3.Size = new Size(68, 15);
+            label3.TabIndex = 3;
+            label3.Text = "Resultado";
             // 
             // Ejercicio4
             // 
@@ -290,6 +290,7 @@
             Controls.Add(pnlResultado);
             Name = "Ejercicio4";
             Text = "Ejercicio4";
+            Load += Ejercicio4_Load;
             pnlCola.ResumeLayout(false);
             pnlCola.PerformLayout();
             uiPanel1.ResumeLayout(false);

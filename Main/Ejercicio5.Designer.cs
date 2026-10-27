@@ -358,6 +358,7 @@
             Controls.Add(uiPanel1);
             Name = "Ejercicio5";
             Text = "Ejercicio5";
+            Load += Ejercicio5_Load;
             uiPanel3.ResumeLayout(false);
             uiPanel3.PerformLayout();
             pnlDraw.ResumeLayout(false);
